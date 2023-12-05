@@ -44,7 +44,7 @@ Install dependencies: npm install
 Start the application: npm start
 
 # Deployment
-This application is deployed on [Vercel]. You can access it here [https://brewery-review-system-gamma.vercel.app/home].
+This application is deployed on [Vercel]. You can access it here [https://brewery-review-system-gamma.vercel.app/].
 
 Feel free to customize this template based on your actual project structure and content. Add more sections or details as necessary.
 
